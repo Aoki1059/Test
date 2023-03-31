@@ -66,3 +66,9 @@
 // }
 
 // alert('1から10まで足し算した結果は' + num + 'です');
+
+// varによる再宣言
+var nickname = "taro"
+console.log(nickname)
+var nickname = "ichiro"
+console.log(nickname)
