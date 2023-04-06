@@ -68,7 +68,13 @@
 // alert('1から10まで足し算した結果は' + num + 'です');
 
 // varによる再宣言
-var nickname = "taro"
+// var nickname = "taro"
+// console.log(nickname)
+// var nickname = "ichiro"
+// console.log(nickname)
+
+// letによる再宣言
+let nickname = "taro"
 console.log(nickname)
-var nickname = "ichiro"
+let nickname = "ichiro"
 console.log(nickname)
