@@ -74,7 +74,13 @@
 // console.log(nickname)
 
 // letによる再宣言
-let nickname = "taro"
+// let nickname = "taro"
+// console.log(nickname)
+// let nickname = "ichiro"
+// console.log(nickname)
+
+// constによる再代入
+const nickname = "taro"
 console.log(nickname)
-let nickname = "ichiro"
+nickname = "jiro"
 console.log(nickname)
