@@ -80,7 +80,18 @@
 // console.log(nickname)
 
 // constによる再代入
-const nickname = "taro"
-console.log(nickname)
-nickname = "jiro"
-console.log(nickname)
+// const nickname = "taro"
+// console.log(nickname)
+// nickname = "jiro"
+// console.log(nickname)
+
+// グローバルスコープ（有効範囲）
+var str = "webcamp" //グローバルスコープ
+
+function foo() {
+  console.log(str)
+  var y = "hello" //関数スコープ
+}
+
+foo()
+console.log(y)
