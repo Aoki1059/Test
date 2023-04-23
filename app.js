@@ -86,12 +86,13 @@
 // console.log(nickname)
 
 // グローバルスコープ（有効範囲）
-var str = "webcamp" //グローバルスコープ
+// var str = "webcamp" //グローバルスコープ
 
-function foo() {
-  console.log(str)
-  var y = "hello" //関数スコープ
-}
+// function foo() {
+  // console.log(str)
+  // var y = "hello" //関数スコープ
+// }
 
-foo()
-console.log(y)
+// foo()
+// console.log(y)
+
