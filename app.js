@@ -97,6 +97,7 @@
 // console.log(y)
 
 // 配列からデータを取得する
-let action = ["スターウォーズ", "バック・トゥ・ザ・フューチャー", "エイリアン2"];
-console.log(action[1])
+// let action = ["スターウォーズ", "バック・トゥ・ザ・フューチャー", "エイリアン2"];
+// console.log(action[1])
+
 
