@@ -100,6 +100,19 @@
 // let action = ["スターウォーズ", "バック・トゥ・ザ・フューチャー", "エイリアン2"];
 // console.log(action[1])
 
-配列からデータを取得する
-let action = ["スターウォーズ", "バック・トゥ・ザ・フューチャー", "エイリアン2"];
-console.log(action[1])
+// 配列からデータの数を取得する
+// let action = ["スターウォーズ", "バック・トゥ・ザ・フューチャー", "エイリアン2"];
+// console.log(action.length)
+
+// ダイアログボックスの種類
+// 警告ダイアログボックスalert
+// let name = "SBクリエイティブ";
+// alert(name);
+
+// 確認ダイアログボックスconfirm
+// let name = "あなたは、SBクリエイティブさんですか？";
+// confirm(name);
+
+// 入力ダイアログボックスprompt
+let name = prompt("名前をにゅうりょくしてください");
+console.log(name);
